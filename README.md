@@ -53,7 +53,7 @@ python rename-file-folder.py <path_ke_folder> <pola_lama> <pola_baru>
 Untuk mengganti semua spasi dalam nama file di folder `E:/DATA/DONE` dengan garis bawah:
 
 ```bash
-python rename-file-folder.py "E:/DATA/DONE" " " "_"
+python rename-file-folder.py "path/project/anda" " " "_"
 ```
 
 Untuk menambahkan awalan "gambar-" ke semua file `.jpg` di folder saat ini:
@@ -113,4 +113,4 @@ Terima kasih kepada komunitas *open source* atas inspirasi dan alat-alat yang be
 
 -----
 
-Dibuat dengan ❤️ oleh [Nama Anda atau Organisasi Anda]
+Dibuat dengan ❤️
